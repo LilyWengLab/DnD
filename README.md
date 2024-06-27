@@ -10,4 +10,5 @@ Here we utilize DnD to provide some qualitative random neuron examples from two 
 ## ResNet-18
 <p align="center">
 <img src="imgs/resnet18_layer_1_2_qualitative.jpg" alt="resnet18_layer_1_2" width="700"/>
+<img src="imgs/resnet18_layer_3_4_qualitative.jpg" alt="resnet18_layer_1_2" width="700"/>
 </p>
